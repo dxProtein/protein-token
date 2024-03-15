@@ -1,0 +1,12 @@
+{
+    "name": "Protein",
+    "symbol": "PROT",
+    "description": "Proof of sport",
+    "image": "https://raw.githubusercontent.com/Naillik06/protein/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Protein"
+      }
+    ]
+}
