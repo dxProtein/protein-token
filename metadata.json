@@ -2,7 +2,7 @@
     "name": "Protein",
     "symbol": "PROT",
     "description": "Proof of sport",
-    "image": "https://raw.githubusercontent.com/Naillik06/protein/main/metadata.json",
+    "image": "https://raw.githubusercontent.com/Naillik06/protein/67532c1f9ebfc6c25adc3b250e57be495fd9aa09/logo.png",
     "attributes": [
       {
         "trait_type": "Item",
