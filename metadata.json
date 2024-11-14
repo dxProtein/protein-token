@@ -2,7 +2,7 @@
     "name": "Protein",
     "symbol": "PROT",
     "description": "Proof of sport",
-    "image": "https://raw.githubusercontent.com/dxProtein/protein-token/refs/heads/main/logo.png",
+    "image": "https://raw.githubusercontent.com/dxProtein/protein-token/22e3e34c5259b4b3f93b62fec8cfe8e703d542e1/logo.png",
     "attributes": [
       {
         "trait_type": "Item",
